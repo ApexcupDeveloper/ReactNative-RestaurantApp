@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "476078263302",
+    "project_id": "stambz-d0332",
+    "storage_bucket": "stambz-d0332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476078263302:android:9bafb9db0c3e0355bbc787",
+        "android_client_info": {
+          "package_name": "com.stambz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476078263302-hj608m48vl8av9jgkkglohqlukl8b0j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stambz",
+            "certificate_hash": "0a46689f94c59418b82d56fbfbb68b4db705ece6"
+          }
+        },
+        {
+          "client_id": "476078263302-ob1gfk23c76iv22dv8j36tekl4s9r8sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stambz",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "476078263302-vqcbgs50vqabsh36df879f733d4enhuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFF1M2AeYt8ZL5I72nwy6B1nEVS8mSxmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476078263302-vqcbgs50vqabsh36df879f733d4enhuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476078263302-8gi8dp2qb4g962lh0l8c2qs87hmhkfgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stambz.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476078263302:android:59c16af905c18179bbc787",
+        "android_client_info": {
+          "package_name": "com.stambz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476078263302-vqcbgs50vqabsh36df879f733d4enhuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFF1M2AeYt8ZL5I72nwy6B1nEVS8mSxmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476078263302-vqcbgs50vqabsh36df879f733d4enhuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476078263302-8gi8dp2qb4g962lh0l8c2qs87hmhkfgp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stambz.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
