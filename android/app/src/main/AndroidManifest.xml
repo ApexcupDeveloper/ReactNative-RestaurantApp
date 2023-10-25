@@ -22,7 +22,7 @@
       <meta-data android:name="com.facebook.sdk.ClientToken" android:value="@string/facebook_client_token"/>
       <meta-data android:name="com.dieam.reactnativepushnotification.notification_foreground" android:value="true"/>
       <meta-data android:name="com.dieam.reactnativepushnotification.notification_color" android:resource="@color/white"/>
-      <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAFF1M2AeYt8ZL5I72nwy6B1nEVS8mSxmU"/>
+      <meta-data android:name="com.google.android.geo.API_KEY" android:value="GOOGLE_API"/>
 
       <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationActions" android:exported="false"/>
       <receiver android:name="com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher" android:exported="false"/>
